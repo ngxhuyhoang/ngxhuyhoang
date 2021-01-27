@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/ngxhuyhoang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ngxhuyhoang" height="30" width="40" /></a>
 <a href="https://twitter.com/hoangnh0099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hoangnh0099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoangnh0099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoangnh0099" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huy-hoàng-nguyễn-30bba2167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hoangnh0099" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10008804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10008804" height="30" width="40" /></a>
 <a href="https://fb.com/ngxhuyhoang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ngxhuyhoang" height="30" width="40" /></a>
 <a href="https://instagram.com/ngxhuyhoang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ngxhuyhoang" height="30" width="40" /></a>
