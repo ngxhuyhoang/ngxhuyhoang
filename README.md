@@ -26,4 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://app.daily.dev/hoangnh0099"><img src="https://github.com/ngxhuyhoang/ngxhuyhoang/blob/main/devcard.svg" width="400" alt="Huy Hoàng Nguyễn's Dev Card"/></a>
